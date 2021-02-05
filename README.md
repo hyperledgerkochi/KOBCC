@@ -1,2 +1,2 @@
-# kOBCC
+# KOBCC
 KOB Community cloud
