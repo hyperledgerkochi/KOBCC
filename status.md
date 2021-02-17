@@ -1,3 +1,0 @@
-# KOB CC (Community Cloud)
-
-Since Blockchain has a property of decentralized identity, there is no common server present. There might be issues for lots of them to store their presentations with them. Here comes the use of Community Cloud which aims to develop a platform which can be considered as one that can be used by those lacking infrastructure for node hosting. By using this facility, the verifiers as well as identity owners (one who have a DID) can make use of the cloud platform to upload their nodes so that they can present it similar to the one who have it. The Cloud can further be extended to the verifiers who also lacks infrastructure. Here, the security is maintained by making the platform available to only those who participate in the exchange of DIDs.
