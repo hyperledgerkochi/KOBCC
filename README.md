@@ -14,11 +14,11 @@ Decentralized Identifier or DIDs refer to a system in which there is no common s
 KOBCC will move into incubation, if approved.
 
 ## Solution
-A cloud platform providing various services to the user can be made, which consisting of the services including generation of DIDs, updating the DIDs of verification of them. Each of nodes once hosted can be made into a cluster with the help of Kunernetes or Raspberry Pi. The cloud is accessible only to the needy ones and remains inaccessible to normal users who have the setup to host nodes. It can be considered something similar to GoDaddy website where we can get domains ending with .com at low costs.
+A cloud platform providing various services to the user can be made, which consists of services including generation of DIDs, updating DIDs and verification of them. Each of nodes once hosted can be made into a cluster with the help of Kunernetes or Raspberry Pi. The cloud is accessible only to the needy ones and remains inaccessible to normal users who have the setup to host nodes. It can be considered something similar to GoDaddy website where we can get domains ending with .com at low costs.
 
 ## Contributors
 
-TBD
+[Adithya K](https://github.com/adithyak04)
 
 ## Testing the project
 
