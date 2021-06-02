@@ -1,0 +1,2 @@
+# KochiOrgBook Commmunity Cloud
+KochiOrgBook Community Cloud is a provision given to an entity who does not have an infrastructure to build, host and run their nodes. Here, the entity can be an association like an association of lawyers, an association of doctors or it can be citizens who are trying to present their proof. It can be considered as a pool of infrastructure components on which their nodes can be implemented. The major stakeholders of the project include the citizens of Kochi, the associations who are to be onboarded and the various service providers.
