@@ -1,1 +1,1 @@
-![Use-Case for KOB Community Cloud](sample.jpg)
+![Use-Case for KOB Community Cloud](Usecase.png)
