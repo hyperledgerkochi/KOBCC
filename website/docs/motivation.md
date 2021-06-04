@@ -1,0 +1,1 @@
+Decentralized Identifier or DIDs refer to a system in which there is no common storage facility available. There might be many users who cannot setup and maintain DIDs themselves. There can also be many organizations/associations who do not have the infrastructre and other facilities for hosting nodes.
