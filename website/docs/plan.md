@@ -1,0 +1,8 @@
+
+| Project Plan                                                                      |                                                                                                                         |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Schedule                                                                          | Task                                                                                                                    | Deliverable |
+| Week 1 - Week 3<br><br>July 1 - July 16<br><br>July 16: 1st Quarter Evaluation    | <input type="checkbox">Install Ubuntu 20.04 LTS or above and set up environment.<br><input type="checkbox">Install Ansible, Ansible Playbooks, Docker and Kubernetes  | Project Plan<br>Working evironment |
+| Week 3 - Week 6<br><br>July 17 - August 4                                         | <input type="checkbox">Develop use-case digaram<br><input type="checkbox">Set up Raspberry-pi to test the working of website<br><input type="checkbox">Write tests to check for website load | Use-case diagram<br>Website run on Raspberry-pi<br>Test for website load |
+| Week 7<br><br>August 5 - August 15<br><br>August 16 - August 31: Final Evaluation | <input type="checkbox">Wrap up documentation<br><input type="checkbox">Final report of the project<br><input type="checkbox">Final presentation of the project                               | Technical Documentation for the entire project<br>Final report<br>Final presentation |
+
